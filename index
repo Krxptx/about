@@ -1,0 +1,648 @@
+<!DOCTYPE html>
+<HTML lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="webthemez">
+    <title>Krypto</title>
+    
+	<!-- core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/animate.min.css" rel="stylesheet"> 
+    <link href="css/prettyPhoto.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet"> 
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->       
+    <link rel="shortcut icon" href="images/ico/liebe.ico"> 
+</head> 
+
+<body id="home" onload="hideLoader()">
+    <div class="page-loader">
+        <div class="spinner"></div>
+        <div class="txt">...Loading...</div>
+    </div>
+    <header id="header">
+        <nav id="main-nav" class="navbar navbar-default navbar-fixed-top" role="banner">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt="logo"></a>
+                </div>
+				
+                <div class="collapse navbar-collapse navbar-right">
+                    <ul class="nav navbar-nav">
+                        <li class="scroll active"><a href="#home">Home</a></li>  
+                        <li class="scroll"><a href="#services">Stuff</a></li>
+                        <li class="scroll"><a href="#about">About</a></li> 
+                        <li class="scroll"><a href="#our-team">Friends</a></li>
+						<li class="scroll"><a href="#portfolio">Gallery</a></li>
+                        <li class="scroll"><a href="#pricing">Offers</a></li>
+                        <li class="scroll"><a href="#contact-us">Contact</a></li>                        
+                    </ul>
+                </div>
+            </div><!--/.container-->
+        </nav><!--/nav-->
+    </header><!--/header-->
+
+    <section id="hero-banner">
+             <div class="banner-inner">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                 
+                                    <h2> 𝐊𝐫𝐲𝐩𝐭𝐨'𝐬 <b>𝑰𝒏𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏</b></h2>
+                                    <p>This is a website by Krypto.<br> Here are just some info's about me <br>
+                                    <a class="btn btn-primary btn-lg" href="https://discord.gg/PVhbYvXqM5">𝓓𝓲𝓼𝓬𝓸𝓻𝓭</a>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+    </section><!--/#main-slider-->
+
+ <section id="services" >
+        <div class="container">
+
+            <div class="section-header">
+                <h2 class="section-title wow fadeInDown">What am I doing?</h2>
+                <p class="wow fadeInDown">I'm an advanced programmer <br> which is currently still learning stuff.</p>
+            </div>
+
+            <div class="row">
+                <div class="features">
+                    <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms">
+                        <div class="media service-box">
+                            <div class="pull-left">
+                                
+                            </div>
+                            <div class="media-body">
+                                <h4 class="media-heading">Coding </h4>
+                                <p>I'm coding different things in my freetime. Sometime also for money. But its most like a donation for me.<br> <br></p>
+                            </div>
+                        </div>
+                    </div><!--/.col-md-4-->
+
+                    <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="100ms">
+                        <div class="media service-box">
+                            <div class="pull-left">
+                                
+                            </div>
+                            <div class="media-body">
+                                <h4 class="media-heading">Python</h4>
+                                <p>I had learned python to use it on different codes and much more.<br> <br> <br></p>
+                            </div>
+                        </div>
+                    </div><!--/.col-md-4-->
+
+                    <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="200ms">
+                        <div class="media service-box">
+                            <div class="pull-left">
+                               
+                            </div>
+                            <div class="media-body">
+                                <h4 class="media-heading">HTML</h4>
+                                <p>This website is also made by Krypto and out of HTML, CSS & JS. So you could say he can handle CSS, JS & HTML.</p>
+                            </div>
+                        </div>
+                    </div><!--/.col-md-4-->
+                
+                    <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="300ms">
+                        <div class="media service-box">
+                            <div class="pull-left">
+                               
+                            </div>
+                            <div class="media-body">
+                                <h4 class="media-heading">Discord - BOT</h4>
+                                <p>Krypto codet 2 own Discord Bots. The first one is <a href="https://discord.com/api/oauth2/authorize?client_id=1116376776864702574&permissions=8&scope=bot">Trinity</a> and the second one is <a href="https://discord.com/api/oauth2/authorize?client_id=1122870366579212299&permissions=8&scope=bot">Ducky</a>. <br>  </p>
+                            </div>
+                        </div>
+                    </div><!--/.col-md-4-->
+
+                    <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="400ms">
+                        <div class="media service-box">
+                            <div class="pull-left">
+                               
+                            </div>
+                            <div class="media-body">
+                                <h4 class="media-heading">Social Media</h4>
+                                <p>Krypto also does stuff in social media. Like posting new stuff on YouTube, Twitter, Instagram, etc.</p>
+                            </div>
+                        </div>
+                    </div><!--/.col-md-4-->
+
+                    <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="500ms">
+                        <div class="media service-box">
+                            <div class="pull-left">
+                                
+                            </div>
+                            <div class="media-body">
+                                <h4 class="media-heading">Gym</h4>
+                                <p>I am also going into a gym in my city to stay healthy and fit. <br> <br></p>
+                            </div>
+                        </div>
+                    </div><!--/.col-md-4-->
+                </div>
+            </div><!--/.row-->    
+        </div><!--/.container-->
+    </section><!--/#services-->
+
+  
+ <section id="about">
+        <div class="container">
+
+            <div class="section-header">
+                <h2 class="section-title wow fadeInDown">Who am I?</h2>
+                <p class="wow fadeInDown">--ღღღ-- </p>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-6 wow fadeInLeft">
+                  <img class="img-responsive" src="images/about.png" alt="">
+                </div>
+
+                <div class="col-sm-6 wow fadeInRight">
+                    <h3 class="column-title">ღ Krypto | @krxpto </h3>
+                    <p>Here you get some informations from me about myself.</p>
+ <p>In my freetime I go to the gym, doing sports. I also play some games at PC. On some weekends I'm going to go to parties.</p>
+<ul class="listarrow">
+<li><i class="fa fa-angle-double-right"></i>Felix</li>
+<li><i class="fa fa-angle-double-right"></i>Boy</li>
+<li><i class="fa fa-angle-double-right"></i>16</li>
+<li><i class="fa fa-angle-double-right"></i>Germany</li> 
+<li><i class="fa fa-angle-double-right"></i>Programmer</li>
+</ul>
+ 
+
+                </div>
+            </div>
+        </div>
+    </section><!--/#about-->
+
+     <section id="our-team">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title wow fadeInDown">
+Me & My Friends
+</h2>
+<p class="wow fadeInDown">Here are me and some of my good online friends. <br> We are kinda dumb.</p> 
+            </div>
+			
+			 	
+            <div class="row text-center">
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="100ms">
+                        <div class="team-img">
+                            <img class="img-responsive" src="images/about.png" alt="">
+                        </div>
+                        <div class="team-info">
+                            <h3>Felix [Me]</h3>
+                            <span>*..programming..*</span> 
+                        </div> 
+                        <!--
+                        <ul class="social-icons">
+                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                        </ul> -->
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
+                        <div class="team-img">
+                            <img class="img-responsive" src="images/team/01.jpg" alt="">
+                        </div>
+                        <div class="team-info">
+                            <h3>Jeremy</h3>
+                            <span> EMO </span> 
+                        </div> 
+                        <!--
+                        <ul class="social-icons">
+                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                        </ul> -->
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="200ms">
+                        <div class="team-img">
+                            <img class="img-responsive" src="images/team/03.jpg" alt="">
+                        </div>
+                        <div class="team-info">
+                            <h3>Joel</h3>
+                            <span>*Shirtless*</span> 
+                        </div> 
+                        <!--
+                        <ul class="social-icons">
+                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                        </ul> -->
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="300ms">
+                        <div class="team-img">
+                            <img class="img-responsive" src="images/team/04.jpg" alt="">
+                        </div>
+                        <div class="team-info">
+                            <h3>Erwin</h3>
+                            <span>*wird NICHT gezwungen</span> 
+                        </div> 
+                        <!--
+                        <ul class="social-icons">
+                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                        </ul> -->
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section><!--/#our-team-->
+
+  <section id="portfolio">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title wow fadeInDown">Gallery</h2>
+                <p class="wow fadeInDown">Here are some of my pictures which I had on my PC lol.</p>
+            </div>
+
+            <div class="text-center">
+                <ul class="portfolio-filter" style="display:none">
+                    <li><a class="active" href="#" data-filter="*">All Works</a></li>
+                    <li><a href="#" data-filter=".designing">Designing</a></li>
+                    <li><a href="#" data-filter=".mobile">Mobile App</a></li>
+                    <li><a href="#" data-filter=".development">Development</a></li>
+                </ul><!--/#portfolio-filter-->
+            </div>
+
+            <div class="portfolio-items">
+                <div class="portfolio-item designing">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/01.png" alt="">
+                        <div class="portfolio-info"> 
+                            <a class="preview" href="images/portfolio/01.png" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->
+
+                <div class="portfolio-item mobile development">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/02.png" alt="">
+                        <div class="portfolio-info"> 
+                            <a class="preview" href="images/portfolio/02.png" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->
+
+                <div class="portfolio-item designing">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/03.png" alt="">
+                        <div class="portfolio-info"> 
+                            <a class="preview" href="images/portfolio/03.png" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->
+
+                <div class="portfolio-item mobile">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/04.png" alt="">
+                        <div class="portfolio-info"> 
+                            <a class="preview" href="images/portfolio/04.png" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->
+
+                <div class="portfolio-item designing development">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/05.png" alt="">
+                        <div class="portfolio-info"> 
+                            <a class="preview" href="images/portfolio/05.png" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->
+
+                <div class="portfolio-item mobile">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/06.png" alt="">
+                        <div class="portfolio-info"> 
+                            <a class="preview" href="images/portfolio/06.png" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->
+
+                <div class="portfolio-item designing development">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/07.png" alt="">
+                        <div class="portfolio-info"> 
+                            <a class="preview" href="images/portfolio/07.png" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->
+
+                <div class="portfolio-item mobile">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/08.png" alt="">
+                        <div class="portfolio-info"> 
+                            <a class="preview" href="images/portfolio/08.png" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->
+            </div>
+        </div><!--/.container-->
+    </section><!--/#portfolio-->
+
+    <section id="pricing">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title wow fadeInDown">Offers</h2>
+                <p class="wow fadeInDown">Here you see some offers which I present to you. <br> If you'r interested, feel free to add me on Discord: @krxpto</p>
+            </div>
+
+            <div class="row">
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="wow zoomIn" data-wow-duration="400ms" data-wow-delay="0ms">
+                        <ul class="pricing">
+                            <li class="plan-header">
+                                <div class="price-duration">
+                                    <span class="price">
+                                        $FREE
+                                    </span>
+                                    <span class="duration">
+                                        { Discord }
+                                    </span>
+                                </div>
+
+                                <div class="plan-name">
+                                    Discord Server
+                                </div>
+                            </li>
+                            <li><strong>Clean</strong> Design</li>
+                            <li><strong>10+</strong> Channel</li>
+                            <li><strong>You</strong> Choose what you need</li>
+                            <li><strong>(round about) 7 Day</strong> Delivery</li>
+                            <li><strong>24/7</strong> SUPPORT</li>
+                            <li class="plan-purchase"><a class="btn btn-primary" href="https://discord.gg/PVhbYvXqM5">Write me On Discord!</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="wow zoomIn" data-wow-duration="400ms" data-wow-delay="200ms">
+                        <ul class="pricing featured">
+                            <li class="plan-header">
+                                <div class="price-duration">
+                                    <span class="price">
+                                        €10 PSC
+                                    </span>
+                                    <span class="duration">
+                                        { Discord }
+                                    </span>
+                                </div>
+
+                                <div class="plan-name">
+                                    Discord Bot
+                                </div>
+                            </li>
+                            <li><strong>5</strong> Commands </li>
+                            <li><strong>Source Code</strong> If you want </li>
+                            <li><strong>2 Weeks</strong> Support</li>
+                            <li><strong>90% online </strong> on a server </li>
+                            <li><strong> <br> </strong> </li>
+                            <li class="plan-purchase"><a class="btn btn-primary" href="https://discord.gg/PVhbYvXqM5">Write me On Discord!</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="wow zoomIn" data-wow-duration="400ms" data-wow-delay="200ms">
+                        <ul class="pricing featured">
+                            <li class="plan-header">
+                                <div class="price-duration">
+                                    <span class="price">
+                                        €20 PSC
+                                    </span>
+                                    <span class="duration">
+                                        { VR Chat }
+                                    </span>
+                                </div>
+
+                                <div class="plan-name">
+                                    Avatar
+                                </div>
+                            </li>
+                            <li><strong>Custom</strong> Skybox </li>
+                            <li><strong>Spawnsound</strong> If you want </li>
+                            <li><strong>Unity</strong> Package</li>
+                            <li><strong>You choose </strong> the avatar style </li>
+                            <li><strong> <br> </strong> </li>
+                            <li class="plan-purchase"><a class="btn btn-primary" href="https://discord.gg/PVhbYvXqM5">Write me On Discord!</a></li>
+                        </ul>
+                    </div>
+                </div>                
+                <div class="row">
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="wow zoomIn" data-wow-duration="400ms" data-wow-delay="0ms">
+                            <ul class="pricing">
+                                <li class="plan-header">
+                                    <div class="price-duration">
+                                        <span class="price">
+                                            $FREE
+                                        </span>
+                                        <span class="duration">
+                                            { VR Chat }
+                                        </span>
+                                    </div>
+    
+                                    <div class="plan-name">
+                                        Spawnsound
+                                    </div>
+                                </li>
+                                <li><strong>Clean</strong> Sound</li>
+                                <li><strong>1</strong> Sound</li>
+                                <li><strong>You</strong> Choose songs</li>
+                                <li><strong>(round about) 24h-48h</strong> Delivery</li>
+                                <li><strong></strong> <br></li>
+                                <li class="plan-purchase"><a class="btn btn-primary" href="https://discord.gg/PVhbYvXqM5">Write me On Discord!</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                                                
+            </div>
+        </div>
+    </section><!--/#pricing-->
+   
+   
+
+    <section id="business-stats">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title wow fadeInDown">Stats</h2>
+                <p class="wow fadeInDown">Here are some of my stats.</p>
+            </div>
+
+            <div class="row text-center">
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
+                        <div class="business-stats" data-digit="274" data-duration="1000"></div>
+                        <strong>Avatar's</strong>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
+                        <div class="business-stats" data-digit="237" data-duration="1000"></div>
+                        <strong>Sounds</strong>
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="wow fadeInUp" data-wow-duration="400ms" data-wow-delay="100ms">
+                        <div class="business-stats" data-digit="40765" data-duration="1000"></div>
+                        <strong>Written lines code</strong>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="wow fadeInUp" data-wow-duration="400ms" data-wow-delay="200ms">
+                        <div class="business-stats" data-digit="73" data-duration="1000"></div>
+                        <strong>Programs</strong>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section><!--/#business-stats-->
+
+  
+    <section class="testimonial-area" id="testimonial">
+			<div class="container">
+				<div class="section-header">
+                <h2 class="section-title wow fadeInDown">Krypto</h2>
+                <p class="wow fadeInDown"><3</p>
+            </div>
+				<div class="row">
+					<div class="col-md-4">
+						<div class="single-testimonial animate_fade_in" style="opacity: 1; right: 0px;">
+							<div class="row">
+								<div class="col-xs-12">
+									<blockquote>I'm happy to have such a good family and friends. They're helping me all the time I need some. They're great... so fucking great.</blockquote>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-xs-3">
+									<img src="images/pic1.jpg" alt="client">
+								</div>
+								<div class="col-xs-9 half-gutter">
+									<h5>ㅤㅤKrypto</h5>
+									<h6>ㅤㅤㅤ[Developer]</h6>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					
+					</div>
+				</div>
+			</div>
+		</section>
+    <section id="contact-us">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title wow fadeInDown">Contact Me</h2>
+                <p class="wow fadeInDown">Contact me if you want. I'm open for every one. via. Discord: @krxpto</p>
+            </div>
+        </div>
+    </section><!--/#contact-us-->
+
+
+    <!--/<section id="contact">
+        
+        <div class="container">
+            <div class="container contact-info">
+                <div class="row">
+				  <div class="col-sm-4 col-md-4">
+                        <div class="contact-form">
+                            <h3>Contact Info</h3>
+
+                            <address>
+                              <strong>Kryptonic, Inc.</strong><br>
+                              Germany<br>
+                              Brandenburg<br>
+                              <abbr title="Phone">P:</abbr> (+49) 01652563465
+                            </address>
+					</div></div>
+                    <div class="col-sm-8 col-md-8">
+                        <div class="contact-form">
+                       
+                            <form id="main-contact-form" name="contact-form" method="post" action="#">
+                                <div class="form-group">
+                                    <input type="text" name="name" class="form-control" placeholder="Name" required>
+                                </div>
+                                <div class="form-group">
+                                    <input type="email" name="email" class="form-control" placeholder="Email" required>
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" name="subject" class="form-control" placeholder="Subject" required>
+                                </div>
+                                <div class="form-group">
+                                    <textarea name="message" class="form-control" rows="8" placeholder="Message" required></textarea>
+                                </div>
+                                <button type="submit" class="btn btn-primary">Send Message</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>   
+   </section>bottom-->
+
+    <footer id="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    &copy;  by Krypto
+                </div>
+                <div class="col-sm-6">
+                    <ul class="social-icons">
+                        <li><a href="https://twitter.com/krxpto_x"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="https://www.youtube.com/@KryptoEdit"><i class="fa fa-youtube"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer><!--/#footer-->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+    <script>
+        function hideLoader(){
+          $('.page-loader').fadeOut('slow');
+        }
+        window.onbeforeunload = function () {
+        window.scrollTo(0,0);
+        };
+        </script>
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script> 
+    <script src="js/mousescroll.js"></script>
+    <script src="js/smoothscroll.js"></script>
+    <script src="js/jquery.prettyPhoto.js"></script>
+    <script src="js/jquery.isotope.min.js"></script>
+    <script src="js/jquery.inview.min.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script src="js/custom-scripts.js"></script>
+</body>
+</html>
